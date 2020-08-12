@@ -22,5 +22,5 @@ in IOSDriverFactory wih your platform name  and platform version.
                                   PATH - /src/test/java/au/com/ 
 Reports and Screen shots :
  ..\build\cucumber\ExtendedReport
- ..\screenshots\
+ ../screenshots/
 
